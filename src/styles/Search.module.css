@@ -1,0 +1,21 @@
+.searchContainer {
+  width: 50%;
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 5px;
+  display: flex;
+}
+
+.input {
+  width: 100%;
+  border: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+.btnSearch {
+  background-color: transparent;
+  border: none;
+}

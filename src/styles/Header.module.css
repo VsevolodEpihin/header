@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btnContainer {
+  display: flex;
+  background-color: transparent;
+
+}
